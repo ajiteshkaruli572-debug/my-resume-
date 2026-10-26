@@ -1,7 +1,7 @@
 # my-resume-
 [Ajitesh karuli]
 [ilkal, India] | [ajiteshkaruli572@gmail.com] | [8970692151]
-GitHub: [ajiteshkaruli572@gmail.com] 
+GitHub: [ajiteshkaruli572-debug] 
 OBJECTIVE
 Highly skilled Python Programmer with a deep technical understanding of data structures, scripting, and automation. Seeking an entry-level Python Developer or Intern role to solve real-world problems.
 
